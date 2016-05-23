@@ -1,0 +1,24 @@
+{
+  "name": "elastic-email",
+  "version": "0.0.1",
+  "description": "An Elastic Email API wrapper for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyberuben/node-elasticemail.git"
+  },
+  "author": "Ruben Rutten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cyberuben/node-elasticemail/issues"
+  },
+  "homepage": "https://github.com/Cyberuben/node-elasticemail#readme",
+  "dependencies": {
+    "request": "^2.72.0",
+    "validator": "^5.2.0",
+    "xml2js": "^0.4.16"
+  }
+}
