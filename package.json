@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/Cyberuben/node-elasticemail#readme",
   "dependencies": {
-    "request": "^2.72.0",
-    "validator": "^5.2.0",
-    "xml2js": "^0.4.16"
+    "request": "^2.72.0"
   }
 }
