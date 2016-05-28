@@ -1,6 +1,6 @@
 {
   "name": "elastic-email",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An Elastic Email API wrapper for NodeJS",
   "main": "index.js",
   "scripts": {
