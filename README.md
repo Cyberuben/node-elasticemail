@@ -19,7 +19,7 @@ It has very few dependencies, so installation should be quick as well. If you fe
 To start using the module, all you have to do is use the following piece of code:
 
 ```
-var elastic = require("./node-elasticemail");
+var elastic = require("node-elasticemail");
 
 var client = elastic.createClient({
 	apiKey: "a-working-api-key",
