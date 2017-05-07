@@ -1,3 +1,5 @@
+# This project has been abandoned
+
 # node-elasticemail
 
 A Elastic Email API wrapper for Node.js. Official API documentation can be found at [http://api.elasticemail.com/public/help](http://api.elasticemail.com/public/help), however, since a horribly configured `robots.txt`, this documentation does not show up on search engines.
